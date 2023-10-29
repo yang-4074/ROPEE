@@ -1,8 +1,5 @@
 # ROPEE
 
-Joint Overlapping Event Extraction Model via Role Pre-judgment with Trigger and Context Embeddings using Classification ahead of Identification Strategy
-
-> **Abstract:** The objective of event extraction is to recognize event triggers and event categories within unstructured text and produce structured event arguments. However, there is a common phenomenon that triggers or arguments of different event types in a sentence may be the same word elements, which poses new challenges to this task. In this article, a joint learning framework for overlapping event extraction (ROPEE) is proposed. In this framework, a role pre-judgment module is devised prior to argument extraction. It conducts role pre-judgment by leveraging the correlation between event types and roles, as well as trigger embeddings. Experiments on the FewFC show that the proposed model outperforms other baseline model in terms of TC, AI, and AC by 0.4%, 0.9%, and 0.6%. In scenarios of trigger overlap and argument overlap, proposed model outperforms baseline models in terms of AI and AC by 0.9%, 1.2% and 0.7%, 0.6% respectively, indicating the effectiveness of ROPEE in solving overlapping events.
 
 ## 1. Environments
 
